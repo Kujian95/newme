@@ -1,7 +1,6 @@
 {
-  "name": "newme-project",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@kujian/newme-project",
+  "version": "0.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,18 +8,75 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "blackthecat": "^0.1.0",
+    "bluethecat": "^0.1.0",
+    "breakthelimit": "^1.1.4",
+    "buildthelimit": "^1.1.4",
+    "burnthelimit": "^0.1.0",
+    "essejuicy": "^1.1.7",
+    "fantom-virma": "^0.1.1",
+    "first-step-to-get-tea": "^1.1.4",
+    "flythelimit": "^0.1.0",
+    "fuckthelimit": "^0.1.0",
+    "getthelimit": "^0.1.0",
+    "greenthecat": "^0.1.0",
+    "hapeipons": "^1.1.8",
+    "harmony-fes": "^0.1.0",
+    "hedera-rados": "^0.1.0",
+    "holdthelimit": "^0.1.0",
+    "jianrepofortea": "^0.1.0",
+    "lendthelimit": "^0.1.0",
+    "letthelimit": "^0.1.0",
+    "lostthelimit": "^0.1.0",
+    "lotthelimit": "^0.1.0",
+    "manta-downhill": "^0.1.0",
+    "mantle-harning": "^0.1.0",
+    "nearly-vm": "^0.1.1",
+    "newme-project": "^0.1.1",
+    "next": "14.2.3",
+    "npmjs-for-tea-project": "^0.1.0",
+    "orangethecat": "^0.1.0",
+    "phantompirs": "^1.1.6",
+    "polymer-solidity-proof": "^1.1.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "redthecat": "^0.1.0",
+    "renthelimit": "^0.1.0",
+    "repo-for-new-polymer-update": "^0.1.0",
+    "repo-for-tea": "^1.1.7",
+    "ripfornokia": "^0.1.4",
+    "roothelimit": "^0.1.0",
+    "runthelimit": "^0.1.0",
+    "setthelimit": "^0.1.0",
+    "thisifcold": "^0.1.0",
+    "thisishot": "^0.1.0",
+    "whitethecat": "^0.1.0",
+    "yoyobamble": "^1.1.6",
+    "yoyobemble": "^0.1.0",
+    "yoyobimble": "^0.1.0",
+    "yoyobomble": "^0.1.0",
+    "yoyobumble": "^0.1.4"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.3"
-  }
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "auto-push.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kujian95/newme"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kujian95/newme/issues"
+  },
+  "homepage": "https://github.com/Kujian95/newme#readme"
 }
